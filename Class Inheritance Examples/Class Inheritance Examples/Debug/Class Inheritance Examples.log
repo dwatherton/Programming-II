@@ -1,0 +1,6 @@
+﻿  Person.cpp
+  Main.cpp
+c:\users\michelle\source\repos\programming ii\class inheritance examples\class inheritance examples\main.cpp(10): error C2664: 'Employee::Employee(Employee &&)': cannot convert argument 6 from 'const char [6]' to 'double'
+  c:\users\michelle\source\repos\programming ii\class inheritance examples\class inheritance examples\main.cpp(10): note: There is no context in which this conversion is possible
+  Employee.cpp
+  Generating Code...

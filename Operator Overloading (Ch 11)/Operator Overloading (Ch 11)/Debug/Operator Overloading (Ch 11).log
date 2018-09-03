@@ -1,0 +1,7 @@
+﻿  Car.cpp
+  Main.cpp
+c:\users\michelle\source\repos\programming ii\operator overloading (ch 11)\operator overloading (ch 11)\main.cpp(10): error C2040: 'cars': 'Car *[100]' differs in levels of indirection from 'Car [100]'
+c:\users\michelle\source\repos\programming ii\operator overloading (ch 11)\operator overloading (ch 11)\main.cpp(15): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Car *' (or there is no acceptable conversion)
+  c:\users\michelle\source\repos\programming ii\operator overloading (ch 11)\operator overloading (ch 11)\car.h(18): note: could be 'void Car::operator =(Car)'
+  c:\users\michelle\source\repos\programming ii\operator overloading (ch 11)\operator overloading (ch 11)\main.cpp(15): note: while trying to match the argument list '(Car, Car *)'
+  Generating Code...

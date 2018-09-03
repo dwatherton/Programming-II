@@ -1,0 +1,7 @@
+Name: Daniel Atherton
+Age: 23
+Income: 5500.99
+Adult: y
+Phone Number 1 : 501-605-3781
+Phone Number 2 : 501-425-9622
+Phone Number 3 : 501-605-8050
